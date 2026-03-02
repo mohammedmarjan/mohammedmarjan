@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Mohammed Marjan, a software engineer with 6 years of experience building cloud-based apps and back-end services. I love working with Node.js, AWS, and creating solutions that solve real-world problems. Check out my projects to see what I’ve been working on!
+Hi, I’m Mohammed Marjan, a software engineer with 7 years of experience building cloud-based apps and back-end services. I love working with Node.js, AWS, and creating solutions that solve real-world problems. Check out my projects to see what I’ve been working on!
 
 
 ## 🌐 Socials:
